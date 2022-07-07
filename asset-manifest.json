@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/aplicacion-react-tareas/static/css/main.d8a8c510.css",
+    "main.js": "/aplicacion-react-tareas/static/js/main.906771aa.js",
+    "static/media/freecodecamp-logo.png": "/aplicacion-react-tareas/static/media/freecodecamp-logo.cc98822c11b81a38c7fa.png",
+    "index.html": "/aplicacion-react-tareas/index.html",
+    "main.d8a8c510.css.map": "/aplicacion-react-tareas/static/css/main.d8a8c510.css.map",
+    "main.906771aa.js.map": "/aplicacion-react-tareas/static/js/main.906771aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8a8c510.css",
+    "static/js/main.906771aa.js"
+  ]
+}
